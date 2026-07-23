@@ -1,3 +1,4 @@
+// Test update via GitHub MCP
 const TOKEN = process.env.GITHUB_TOKEN;
 
 async function testMcpConnection() {
